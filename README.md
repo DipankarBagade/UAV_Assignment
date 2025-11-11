@@ -74,8 +74,7 @@ python src/main.py
 - **Language**: Python 3.x
 - **GUI Framework**: Tkinter
 - **Data Processing**: NumPy, Pandas
-- **Visualization**: Matplotlib (3D/Animated plots)
-- **Conflict Detection**: Euclidean distance calculation with synchronized timestamp analysis
+- **Visualization**: Matplotlib 
 
 
 ## Development
